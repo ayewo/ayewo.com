@@ -1,1 +1,1 @@
-Sitemap: https://ayewo.github.io/ayewo.com/sitemap.xml
+Sitemap: https://ayewo.com/sitemap.xml
